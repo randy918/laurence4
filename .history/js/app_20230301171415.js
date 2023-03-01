@@ -1,3 +1,3 @@
 document.write("k");
 
-document.write("km");
+document.write("k");

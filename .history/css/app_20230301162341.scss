@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Fira+Sans=swap');
-
-
+import url(https://fonts.googleapis.com/css?family=Fira+Sans:400,300,300italic,400italic,500,500italic,700,700italic);
 
 $colors: (bg: rgba(55, 66, 76, 1),
     theGreen: rgba(0, 173, 43, 1),
@@ -70,8 +68,7 @@ body {
     margin: 2vw auto;
     width: min(1300px, calc(80% + 100px));
     object-fit: fill;
-    font-family: 'Fira Sans',
+    font-family: "Sofia",
     sans-serif;
-
 
 }
